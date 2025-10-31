@@ -1,2 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987&show_icons=true&bg_color=00000000)
+![PixelGames987's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987&show_icons=true&theme=radical)
+
+### Skills:
+- Python
+- Bash
+- C
+- C++
+- Git
+- Linux
