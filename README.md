@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a developer from Poland and a Linux enthusiast. I enjoy working on low-level systems programming in C/C++ as well as writing programs in Python and Bash. My command-line-centric workflow is powered by Git and Neovim.
+I'm a developer from Poland and a Linux enthusiast, with a primary focus on **cybersecurity**. I enjoy working on low-level systems programming in C/C++ as well as writing programs in Python and Bash. My command-line-centric workflow is powered by Git and Neovim.
 
 ---
 
@@ -28,3 +28,5 @@ I'm a developer from Poland and a Linux enthusiast. I enjoy working on low-level
 [![PixelGames987's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 ---
+
+I use arch btw
