@@ -1,4 +1,4 @@
-![PixelGames987's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelGames987&show_icons=true&theme=radical)
 
 ### Skills:
 - Python
