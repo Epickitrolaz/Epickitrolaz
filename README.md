@@ -1,4 +1,5 @@
-# Hey there, I'm Krzysztof 👋<br><br>I'm a developer from Poland and a Linux enthusiast, with a primary focus on cybersecurity.<br>I enjoy working on low-level systems as well as writing high level code. <br>My command-line-centric workflow is powered by Git and Neovim.
+# Hey there, I'm Krzysztof 👋<br><br>
+I'm a developer from Poland and a Linux enthusiast, with a primary focus on cybersecurity.<br>I enjoy working on low-level systems as well as writing high level code. <br>My command-line-centric workflow is powered by Git and Neovim.
 
 
 # 💻 Tech Stack:
