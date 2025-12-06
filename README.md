@@ -1,9 +1,13 @@
 <div align="center">
 
 # Hey there, I'm Krzysztof 👋<br><br>
-<p style="font-size: 1.1em;">
-I'm a developer from Poland and a Linux enthusiast, with a primary focus on cybersecurity.<br>I enjoy working on low-level systems as well as writing high level code. <br>My command-line-centric workflow is powered by Git and Neovim.
-</p>
+<div align="center">
+  <h3>
+    I'm a developer from Poland and a Linux enthusiast, with a primary focus on cybersecurity.<br>
+    I enjoy working on low-level systems as well as writing high level code.<br>
+    My command-line-centric workflow is powered by Git and Neovim.
+  </h3>
+</div>
 
 </div>
 
