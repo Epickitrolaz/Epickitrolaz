@@ -17,7 +17,7 @@
 <div align="center">
 
 # 📊 My Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Epickitrolaz&theme=dark&hide_border=false)<br/>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Epickitrolaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Epickitrolaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
