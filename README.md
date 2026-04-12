@@ -17,7 +17,7 @@
 <div align="center">
 
 # 📊 My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Epickitrolaz)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Epickitrolaz&theme=dark&border_radius=10)](https://git.io/streak-stats)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Epickitrolaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
